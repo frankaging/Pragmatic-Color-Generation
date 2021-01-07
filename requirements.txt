@@ -137,7 +137,7 @@ lazy-object-proxy==1.5.0
 libarchive-c==2.9
 llvmlite==0.29.0
 locket==0.2.0
-lxml==4.5.1
+lxml==4.6.2
 Markdown==3.1.1
 MarkupSafe==1.1.1
 matplotlib @ file:///opt/concourse/worker/volumes/live/34dd81d3-0a70-4e5e-5ad6-be36ca7e59f7/volume/matplotlib-base_1592846084794/work
