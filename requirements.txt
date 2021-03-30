@@ -205,7 +205,7 @@ pycurl==7.43.0.3
 pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1592848020240/work
 pyenchant==2.0.0
 pyflakes==2.2.0
-Pygments==2.6.1
+Pygments==2.7.4
 pylint==2.4.4
 pymongo==3.7.2
 pyodbc===4.0.0-unsupported
