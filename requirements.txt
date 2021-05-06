@@ -73,7 +73,7 @@ fastcache==1.1.0
 filelock==3.0.12
 flake8==3.8.3
 Flask==1.1.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 flatbuffers==1.11
 fsspec==0.7.4
 funcsigs==1.0.2
