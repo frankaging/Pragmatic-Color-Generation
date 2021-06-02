@@ -300,7 +300,7 @@ ujson==1.35
 unicodecsv==0.14.1
 Unipath==1.1
 uritemplate==3.0.0
-urllib3==1.25.9
+urllib3==1.26.5
 watchdog==0.10.2
 wcwidth==0.2.4
 WeasyPrint==50
