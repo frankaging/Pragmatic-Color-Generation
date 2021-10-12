@@ -168,7 +168,7 @@ numpy==1.18.1
 numpydoc==1.0.0
 odo==0.5.1
 olefile==0.46
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 openpyxl==3.0.3
 packaging==20.4
 pandas @ file:///opt/concourse/worker/volumes/live/38d1301c-8fa9-4d2f-662e-34dddf33b183/volume/pandas_1592841668171/work
